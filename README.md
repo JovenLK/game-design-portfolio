@@ -8,11 +8,12 @@
 
 ## 查看与试玩
 
-- **[下载 Windows Demo](https://github.com/JovenLK/game-design-portfolio/releases/download/v1.0/EchoProtocolDemo.zip)**：完整解压后，打开 `EchoProtocolDemo` 文件夹并运行 `EchoProtocolDemo.exe`。
+> Demo 已于 2026-10-27 更新。请下载新版完整压缩包，解压全部文件后再运行游戏。
+
+- **[下载 Windows Demo](https://github.com/JovenLK/game-design-portfolio/releases/download/v1.0/EchoProtocolDemo.zip)**：完整解压后，打开 `EchoProtocolDemo_Repaired` 文件夹并运行 `EchoProtocolDemo.exe`。
 - **[阅读详细试玩说明](试玩说明.md)**：包含入门示例、完整键位、核心规则、20 关机制递进、章节叙事和设计思路。
 - **[查看游戏策划案 PDF](回声协议-游戏策划案.pdf)**：包含玩法资源、交互流程、关卡意图、配置要求、美术规范与验收标准。
 - [发布版本与附件列表](https://github.com/JovenLK/game-design-portfolio/releases/latest)
-
 
 ## 推荐体验顺序
 
